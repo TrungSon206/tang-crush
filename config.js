@@ -1,4 +1,5 @@
-const CONFIG = {introTitle: 'Phanh à!',
+const CONFIG = {
+    introTitle: 'Phanh à!',
     introDesc: `Thế giới có hơn 7 tỉ người
     mà t lại chỉ thích đúng mình m :>`,
     btnIntro: 'hihi',
