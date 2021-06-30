@@ -1,5 +1,4 @@
-const CONFIG = {
-    introTitle: 'Phanh à!',
+const CONFIG = {introTitle: 'Phanh à!',
     introDesc: `Thế giới có hơn 7 tỉ người
     mà t lại chỉ thích đúng mình m :>`,
     btnIntro: 'hihi',
@@ -13,4 +12,4 @@ const CONFIG = {
     mess: 'Tau biết mà 🥰. Yêu m nhiều nhiều 😘😘',
     messDesc: 'Hôm nèo mua trà sữa cho nhóooo.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy}
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy }
