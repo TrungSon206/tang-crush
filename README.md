@@ -22,7 +22,5 @@ mà t chỉ thích đúng mình m 😝 `,
     mess: 'tao biết mà 🥰. Yêu m nhiều nhiều 😘😘',
     messDesc: 'Hôm nào mua trà sữa cho nhóo..',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
-```
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy}```
 
